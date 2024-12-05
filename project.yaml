@@ -1,0 +1,7 @@
+metadata:
+  name: test-vizro-dani
+kind: project
+spec:
+  desired_state: online
+  source: ''
+  conda: ''
